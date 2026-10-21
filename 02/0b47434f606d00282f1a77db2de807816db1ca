@@ -1,0 +1,19 @@
+agent-support/amp/git-ai.ts
+  s_1da27313e2cfae::t_bf73355fd8619b 101-114,201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "020b47434f606d00282f1a77db2de807816db1ca",
+  "prompts": {},
+  "sessions": {
+    "s_1da27313e2cfae": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3d7e71a9-2204-4820-82be-89cb7549d7db",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Waleed Khan <waleed@getauctor.com>"
+    }
+  }
+}
