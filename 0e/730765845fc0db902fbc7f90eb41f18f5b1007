@@ -1,0 +1,23 @@
+src/mdm/agents/amp.rs
+  s_1da27313e2cfae::t_d6a645c6937bdd 197-199
+agent-support/amp/git-ai.ts
+  s_1da27313e2cfae::t_ee1ee710fd847e 159-171
+  s_1da27313e2cfae::t_4bcbded07853a0 175-176,186-190
+  s_1da27313e2cfae::t_88645938f8619d 5-6,18-19,85,91,97-100,113-115,130-158,172-174,177-185,191-193,289-290,297-298,310-311,340-341
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0e730765845fc0db902fbc7f90eb41f18f5b1007",
+  "prompts": {},
+  "sessions": {
+    "s_1da27313e2cfae": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3d7e71a9-2204-4820-82be-89cb7549d7db",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Waleed Khan <waleed@getauctor.com>"
+    }
+  }
+}
