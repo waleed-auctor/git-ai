@@ -1,0 +1,30 @@
+tests/daemon_mode.rs
+  s_1da27313e2cfae::t_b61acc73e5409e 264,293-297,329,350-355,378
+  s_1da27313e2cfae::t_ca99259077840a 7821-7822
+  s_1da27313e2cfae::t_f020f9294fc68a 7825-7882
+  s_b25335c8808717::t_745f4837e3d61a 7823-7824
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "af03300438270bee80d726f39f434543d4267ca0",
+  "prompts": {},
+  "sessions": {
+    "s_1da27313e2cfae": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3d7e71a9-2204-4820-82be-89cb7549d7db",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Waleed Khan <waleed@getauctor.com>"
+    },
+    "s_b25335c8808717": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "0c2efca4-f23f-476a-94d2-cb17f77d3fc3",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Waleed Khan <waleed@getauctor.com>"
+    }
+  }
+}
