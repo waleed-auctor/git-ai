@@ -1,0 +1,34 @@
+docs/token-usage-events-spec.md
+  s_1da27313e2cfae::t_172a62cb4d4aee 27-31
+src/config.rs
+  s_1da27313e2cfae::t_aefc8ef408d651 182,187-188,574-580,655-663,1108-1110,1156-1158,1306,1310,1343,1347
+  s_1da27313e2cfae::t_438e457f7a0f6e 1918-1933
+  s_1da27313e2cfae::t_7ce4665537cb13 1897,1901,2184,2188,2336,2340
+  s_1da27313e2cfae::t_8aa7a79a5bbbf2 1917
+src/api/client.rs
+  s_1da27313e2cfae::t_82283fc8fec3d0 309-330
+src/daemon/telemetry_worker.rs
+  s_1da27313e2cfae::t_5f4ce17a7f4d36 947,980
+src/commands/flush_metrics_db.rs
+  s_1da27313e2cfae::t_8f8e147cc7ac43 14
+src/commands/whoami.rs
+  s_1da27313e2cfae::t_23b887c15b5b36 30-31,41,65
+  s_1da27313e2cfae::t_05e6770dc70892 152-158
+  s_1da27313e2cfae::t_6d4946e24555b8 348-356,391-399,424-432,462-470
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6c0f38b78373320f735e447f62be36498be20b7d",
+  "prompts": {},
+  "sessions": {
+    "s_1da27313e2cfae": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3d7e71a9-2204-4820-82be-89cb7549d7db",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Waleed Khan <waleed@getauctor.com>"
+    }
+  }
+}
