@@ -1,0 +1,37 @@
+docs/token-usage-events-spec.md
+  s_1da27313e2cfae::t_172a62cb4d4aee 27-28,32
+  s_1da27313e2cfae::t_ef40937b2345a5 29-31
+src/daemon/telemetry_worker.rs
+  s_1da27313e2cfae::t_5f4ce17a7f4d36 947,980
+src/api/client.rs
+  s_1da27313e2cfae::t_82283fc8fec3d0 309-319,321-330
+  s_1da27313e2cfae::t_948d3722f0bfa3 320
+src/commands/flush_metrics_db.rs
+  s_1da27313e2cfae::t_8f8e147cc7ac43 14
+src/config.rs
+  s_1da27313e2cfae::t_438e457f7a0f6e 1922-1928,1930-1931,1933-1935,1937-1938
+  s_1da27313e2cfae::t_7ce4665537cb13 1901,1905,2189,2193,2341,2345
+  s_1da27313e2cfae::t_7b59ad9481cc05 655,657-661,664-665,1929,1932,1936
+  s_1da27313e2cfae::t_8aa7a79a5bbbf2 1921
+  s_1da27313e2cfae::t_aefc8ef408d651 182,187-188,574-580,656,662-663,666-667,1112-1114,1160-1162,1310,1314,1347,1351
+src/commands/whoami.rs
+  s_1da27313e2cfae::t_23b887c15b5b36 30-31,41,65
+  s_1da27313e2cfae::t_05e6770dc70892 152-158
+  s_1da27313e2cfae::t_6d4946e24555b8 348-356,391-399,424-432,462-470
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c713ff6c83ba6d18b9398b68134993e75bbd3275",
+  "prompts": {},
+  "sessions": {
+    "s_1da27313e2cfae": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3d7e71a9-2204-4820-82be-89cb7549d7db",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
